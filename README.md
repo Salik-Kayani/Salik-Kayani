@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salik Kayani</h1>
 <h3 align="center">A passionate frontend developer from PAKISTAN</h3>
 
-- 🔭 I’m currently working on **JARVIS**
-
 - 🌱 I’m currently learning **Full stack dev**
 
 - 📫 How to reach me **salikkayani212@gmail.com**
